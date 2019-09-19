@@ -1,0 +1,96 @@
+* {	
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p { 
+	color: white;
+	font-size: 20px;
+}
+
+body{
+	background-color:black; 
+}
+
+header{
+	width: 100%;position: fixed; 
+	height: 50px;
+	background-color: #000090;
+	text-align: center;
+	padding: 10px;
+}
+
+header nav ul li  {
+	display: inline;
+}
+
+header nav ul li a{
+	font: 20px impact;
+	text-decoration: none;
+	color: black;
+	transition: all 0.2s;
+}
+
+header nav ul li a:hover {
+	background: #000;
+	color: #999;
+	padding: 20px;
+}
+
+header #menu {
+	width: 100%;;
+}
+div h2 {font-family: impact;
+	font-size: 35px}
+div h4 {
+	color: red;
+	font-size: 30px
+}
+div p {
+	font-size: 20px
+}
+
+#relogio {
+	background-image: url(../imgs/juuj.jpg);
+	height: 650px;
+}
+#relogio h1 { color: white; text-align: center;padding-top: 100px;float: center;font-size: 50px}
+
+
+#cont {
+	height: 900px;background-color: black
+}
+
+#cont h1 {
+	color: white;
+}
+#cont h2 {
+	text-align: center;
+	color: white;
+}
+ #kk {
+ 	height: 700px;
+ }
+ #kk h1 {
+ 	color: red;
+
+ }
+ #sobre {height: 400px;background-color: black}
+ #sobre h2 {
+ 	color: white;
+ 	font-size: 30px;
+ 	font-family: none
+
+ }
+#pdca {}
+  footer{ 
+ 	width: 100%;
+ 	background-color: #000090;
+ 	height: 40px;
+    text-align: center;
+ 	padding-top: 10px;
+}
+ footer p {
+ 	color: black;
+ }
