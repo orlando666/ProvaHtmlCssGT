@@ -53,30 +53,35 @@ div p {
 
 #relogio {
 	background-image: url(../imgs/juuj.jpg);
-	height: 650px;
+	height: 670px;
 }
 #relogio h1 { color: white; text-align: center;padding-top: 100px;float: center;font-size: 50px}
 
 
 #cont {
-	height: 900px;background-color: black
+	height: 2400px;background-color: black
 }
 
 #cont h1 {
 	color: white;
+
 }
 #cont h2 {
+	font-size: 30px;
+	font-family: impact;
 	text-align: center;
 	color: white;
 }
+#cont h5 {color: red;
+font-size: 25px}
  #kk {
- 	height: 700px;
+ 	height: 600px;
  }
  #kk h1 {
  	color: red;
 
  }
- #sobre {height: 400px;background-color: black}
+ #sobre {height: 500px;background-color: black}
  #sobre h2 {
  	color: white;
  	font-size: 30px;
@@ -94,3 +99,6 @@ div p {
  footer p {
  	color: black;
  }
+
+ #peper {height: 200px;width: 200px}
+ #redhot {height: 200px;width: 200px}
