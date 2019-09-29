@@ -100,5 +100,5 @@ font-size: 25px}
  	color: black;
  }
 
- #peper {height: 200px;width: 200px}
- #redhot {height: 200px;width: 200px}
+ #peper {height: 200px;width: 220px;background-image: url(../imgs/images2.jpg)}
+ #redhot {height: 220px;width: 220px;background-image: url(../imgs/download.jpg);}
