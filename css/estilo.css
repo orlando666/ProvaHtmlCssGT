@@ -9,6 +9,11 @@ p {
 	font-size: 20px;
 }
 
+h4 {
+	color: red;
+	font-size: 30px
+}
+
 body{
 	background-color:black; 
 }
@@ -41,13 +46,13 @@ header nav ul li a:hover {
 header #menu {
 	width: 100%;;
 }
-div h2 {font-family: impact;
+h2 {font-family: impact;
 	font-size: 35px}
-div h4 {
+h4 {
 	color: red;
 	font-size: 30px
 }
-div p {
+p {
 	font-size: 20px
 }
 
@@ -59,8 +64,15 @@ div p {
 
 
 #cont {
-	height: 2400px;background-color: black
+	height: 2900px;background-color: black
 }
+ #kk {
+ 	height: 2000px;
+ }
+ #kk a {font-size: 30px;padding-top: 5px}
+ #pomodoro {height: 2000px; text-align: center;}
+ #sobre {height: 1000px;background-color: black}
+ #pepe {height: 1000px}
 
 #cont h1 {
 	color: white;
@@ -72,17 +84,15 @@ div p {
 	text-align: center;
 	color: white;
 }
-#cont h5 {color: red;
+h5 {color: red;
 font-size: 25px}
- #kk {
- 	height: 600px;
- }
+
  #kk h1 {
  	color: red;
 
  }
- #sobre {height: 500px;background-color: black}
- #sobre h2 {
+ 
+ h2 {
  	color: white;
  	font-size: 30px;
  	font-family: none
@@ -102,3 +112,4 @@ font-size: 25px}
 
  #peper {height: 200px;width: 220px;background-image: url(../imgs/images2.jpg)}
  #redhot {height: 220px;width: 220px;background-image: url(../imgs/download.jpg);}
+#pomodoro2 {height: 200px;width: 220px;background-image: url(../imgs/pomodoro1.jpg)}
