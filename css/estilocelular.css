@@ -1,0 +1,106 @@
+* {	
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p { 
+	color: white;
+	font-size: 20px;
+}
+
+h4 {
+	color: red;
+	font-size: 30px
+}
+
+body{
+	background-color:black;
+}
+
+header{
+	width: 100%;position: fixed; 
+	height: 80px;
+	background-color: #000090;
+	text-align: center;
+	padding: 10px;
+}
+
+header nav ul li  {
+	display: inline;
+}
+
+header nav ul li a{
+	font: 40px impact;
+	text-decoration: none;
+	color: black;
+	transition: all 0.2s;
+}
+
+header nav ul li a:hover {
+	background: #000;
+	color: #999;
+	padding: 20px;
+}
+
+header #menu {
+	width: 100%;;
+}
+h2 {font-family: impact;
+	font-size: 35px}
+h4 {
+	color: red;
+	font-size: 30px
+}
+p {
+	font-size: 20px
+}
+
+#relogio {
+	background-image: url(../imgs/juuj.jpg);
+	height: 670px;
+}
+#relogio h1 { color: white; text-align: center;padding-top: 100px;float: center;font-size: 50px}
+
+ }
+
+
+ #pomodoro {height: 2000px; text-align: center;}
+ #kk {
+ 	height: 500px;}
+ #sobre {height: 500px;background-color: black}
+ #pepe {height: 1000px}
+
+ #kk a {font-size: 24px;color: red;}
+
+}
+
+h5 {color: red;
+font-size: 25px}
+
+ }
+ h1{color: white;
+ 	font-size: 30px;
+ 	font-family: impact;}
+ h2 {
+ 	color: white;
+ 	font-size: 30px;
+ 	font-family: impact
+
+ }
+#pdca {}
+  footer{ 
+ 	width: 100%;
+ 	background-color: #000090;
+ 	height: 40px;
+    text-align: center;
+ 	padding-top: 10px;
+}
+ footer p {
+ 	color: black;
+ }
+
+ #peper {height: 200px;width: 220px;background-image: url(../imgs/images2.jpg)}
+ #redhot {height: 220px;width: 220px;background-image: url(../imgs/download.jpg);}
+#pomo {height: 200px;width: 200px;background-image: url(../imgs/p.png)}
+#estu {height: 200px;width: 200px;background-image: url(../imgs/est.png)}
